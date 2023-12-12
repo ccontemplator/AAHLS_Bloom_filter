@@ -1,1 +1,1 @@
-# AAHLS_Lab_B
+# Bloom filter with high level synthesis
